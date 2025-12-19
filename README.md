@@ -77,17 +77,4 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-
-**Your Name**
-GitHub: [your-username](https://github.com/your-username)
-
----
-
 ⭐ If you like this project, give it a star on GitHub!
